@@ -561,8 +561,7 @@ body.dark .switch::before{
     left: 250px;
     right: 0;
     width: calc(100%-250px);
-    background: var(--body-color);
-    /* background-color: red; */
+    background-color: red;
     transition: var(--tran-05);
     align-items: center;
 }
