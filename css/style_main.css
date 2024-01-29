@@ -564,6 +564,7 @@ body.dark .switch::before{
     background-color: red;
     transition: var(--tran-05);
     align-items: center;
+    display: flex;
 }
 
 .home .text{
